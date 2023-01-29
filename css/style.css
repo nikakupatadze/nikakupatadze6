@@ -25,38 +25,30 @@ li{
     color: #8172D5;
     ;
 }
-/* section{
-    width: 90%;
-     background: #F2F5F8;
-    ;
+section{
+    
     height: 1051px;
-    margin: 0 auto;
-    padding: 52px 98px 63px 89px;
+    padding: 52px 98px 63px 98px;
+    background-color: #F2F5F8;
+    ;
 }
 h1{
-    font-size: 32px;
+    font-size: 37px;
     color: #225857;
-
-    
-} 
-.parent{
-   width: 1244px;   
-   margin: 0 auto;
-   height: 831px;
-   padding: 68px 98px 63px 98px ;
-   display: flex;
-   
+    ;
 }
-.parent1{
-    
+.cards{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 68px;
 }
 .card{
+    
     width: 400px;
-    height: px;
+    height: 368px;
+    padding: 33px 30px 36px 30px;
 }
-.card1{
-   flex-direction: row-reverse;
+.text{
+    margin-top: 60px;
 }
-.cardschildren{
-    padding: 60px 30px 36px 30px;
-} */
