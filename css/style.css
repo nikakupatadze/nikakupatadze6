@@ -25,10 +25,38 @@ li{
     color: #8172D5;
     ;
 }
-section{
+/* section{
     width: 90%;
-    height: 500px;
+     background: #F2F5F8;
+    ;
+    height: 1051px;
     margin: 0 auto;
-    
-
+    padding: 52px 98px 63px 89px;
 }
+h1{
+    font-size: 32px;
+    color: #225857;
+
+    
+} 
+.parent{
+   width: 1244px;   
+   margin: 0 auto;
+   height: 831px;
+   padding: 68px 98px 63px 98px ;
+   display: flex;
+   
+}
+.parent1{
+    
+}
+.card{
+    width: 400px;
+    height: px;
+}
+.card1{
+   flex-direction: row-reverse;
+}
+.cardschildren{
+    padding: 60px 30px 36px 30px;
+} */
