@@ -52,3 +52,24 @@ h1{
 .text{
     margin-top: 60px;
 }
+footer{
+    background-color: #758BFD;
+    width: 100%;
+    height: 140px;
+    padding: 46px 98px 30px 97px;
+    display: flex;
+    justify-content: space-between;
+}
+.logo{
+    width: 106px ;
+    height: 37px; ;
+}
+.footerdiv{
+    width: 449px;
+    height: 64px;
+    background-color: white;
+    border-radius: 10px;
+}
+.logo1{
+    margin: 8px 10px 1px 388px;
+}
